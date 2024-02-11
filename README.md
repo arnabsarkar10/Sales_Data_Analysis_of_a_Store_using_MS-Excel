@@ -1,1 +1,3 @@
-# Sales_Data_Analysis_of_a_Store_using_MS-Excel
+The main objective was to create an annual sales report for the year 22’ so that we can understand the customers & areas of growth & if possible, provide some advice to increase the sales in 23’. The size of the dataset was around 32K. 
+Analysis, Cleaning & Visualizations were some of the key steps, multiple reports were created which included Pie & Bar Charts so that we can get a deep understanding of every category individually. 
+Some crucial insights gathered were the highest & lowest months in terms of sales & orders, the target category of customers, highest selling channel & category & top states in terms of sales among others. 
